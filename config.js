@@ -27,7 +27,7 @@ const CONFIG = {
 
   bride: {
     name: "김채영",
-    father: "아버지",
+    father: "김진표",
     mother: "사은정",
     fatherDeceased: false,
     motherDeceased: false
@@ -39,7 +39,7 @@ const CONFIG = {
     venue: "더메리든",
     hall: "그랜드홀 5층",
     address: "경기 성남시 분당구 서현로180번길 19 비전월드 8층",
-    tel: "02-1234-5678",
+    tel: "0507-1465-3045",
     mapLinks: {
       kakao: "https://place.map.kakao.com/1905917949",
       naver: "https://naver.me/GzE979EN"
@@ -49,7 +49,7 @@ const CONFIG = {
   // ── 인사말 ──
   greeting: {
     title: "소중한 분들을 초대합니다",
-    content: "서로 다른 길을 걸어온 두 사람이\n이제 같은 길을 함께 걸어가려 합니다.\n\n저희의 새로운 시작을\n축복해 주시면 감사하겠습니다.\n\n저희의 새로운 시작을\n축복해 주시면 감사하겠습니다.\n\n저희의 새로운 시작을\n축복해 주시면 감사하겠습니다.\n\n저희의 새로운 시작을\n축복해 주시면 감사하겠습니다."
+    content: "2014년 여름날 시작된 인연이\n어느덧 12년의 시간을 지나\n부부로서 새로운 시작을 맞이하게 되었습니다.\n\n오래도록 함께해 주신 여러분을\n소중한 자리에 초대합니다."
   },
 
   // ── 우리의 이야기 ──
