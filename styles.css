@@ -467,6 +467,10 @@ a {
   cursor: pointer;
 }
 
+.story__photo-item:only-child {
+  grid-column: 1 / -1;
+}
+
 .story__photo-item img {
   width: 100%;
   aspect-ratio: 4 / 3;
