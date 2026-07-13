@@ -473,8 +473,7 @@ a {
 
 .story__photo-item img {
   width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
+  height: auto;
   transition: opacity var(--transition);
 }
 
@@ -927,9 +926,6 @@ a {
     gap: var(--spacing-sm);
   }
 
-  .story__photo-item img {
-    aspect-ratio: 3 / 2;
-  }
 
   .gallery__grid {
     gap: 3px;
