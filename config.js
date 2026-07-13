@@ -34,11 +34,11 @@ const CONFIG = {
   },
 
   wedding: {
-    date: "2026-05-09",
-    time: "13:00",
+    date: "2026-10-15",
+    time: "15:00",
     venue: "더메리든",
     hall: "그랜드홀 5층",
-    address: "서울특별시 강남구 테헤란로 123",
+    address: "경기 성남시 분당구 서현로180번길 19 비전월드 8층",
     tel: "02-1234-5678",
     mapLinks: {
       kakao: "https://place.map.kakao.com/1905917949",
@@ -78,6 +78,6 @@ const CONFIG = {
   // ── 링크 공유 시 나타나는 문구 ──
   meta: {
     title: "이동혁 ♥ 김채영 결혼합니다",
-    description: "2026년 5월 9일, 소중한 분들을 초대합니다."
+    description: "2026년 10월 15일, 소중한 분들을 초대합니다."
   }
 };
