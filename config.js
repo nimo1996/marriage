@@ -34,14 +34,14 @@ const CONFIG = {
   },
 
   wedding: {
-    date: "2026-10-15",
+    date: "2026-10-18",
     time: "15:00",
     venue: "더메리든",
-    hall: "그랜드홀 5층",
-    address: "경기 성남시 분당구 서현로180번길 19 비전월드 8층",
+    hall: "단독홀 8층",
+    address: "경기 성남시 분당구 서현로180번길 19",
     tel: "0507-1465-3045",
     mapLinks: {
-      kakao: "https://place.map.kakao.com/1905917949",
+      kakao: "https://kko.to/HmnMuG1JnI",
       naver: "https://naver.me/GzE979EN"
     }
   },
@@ -55,7 +55,7 @@ const CONFIG = {
   // ── 우리의 이야기 ──
   story: {
     title: "우리의 이야기",
-    content: "서로 다른 길을 걷던 두 사람이\n하나의 길을 함께 걷게 되었습니다.\n\n여러분을 소중한 자리에 초대합니다."
+    content: "함께한 시간만큼\n서로를 향한 마음도 깊어졌습니다.\n\n가을이 무르익어가는 어느 날,\n부부의 연을 맺고 평생의 동반자가 되고자 합니다.\n\n소중한 날 함께해 주세요."
   },
 
   // ── 오시는 길 ──
@@ -64,20 +64,18 @@ const CONFIG = {
   // ── 마음 전하실 곳 ──
   accounts: {
     groom: [
-      { role: "신랑", name: "홍길동", bank: "국민은행", number: "000-000-000000" },
-      { role: "아버지", name: "홍판서", bank: "신한은행", number: "000-000-000000" },
-      { role: "어머니", name: "김부인", bank: "우리은행", number: "000-000-000000" }
+      { role: "신랑", name: "이동혁", bank: "국민은행", number: "933502-00-65846" },
+      { role: "어머니", name: "이명오", bank: "국민은행", number: "27221-0054-374" }
     ],
     bride: [
-      { role: "신부", name: "김영희", bank: "하나은행", number: "000-000-000000" },
-      { role: "아버지", name: "김사장", bank: "기업은행", number: "000-000-000000" },
-      { role: "어머니", name: "이부인", bank: "농협은행", number: "000-000-000000" }
-    ]
+      { role: "신부", name: "김채영", bank: "우리은행", number: "1002-459-431072" },
+      { role: "아버지", name: "김진표", bank: "카카오뱅크", number: "3333-20-9132821" },
+      ]
   },
 
   // ── 링크 공유 시 나타나는 문구 ──
   meta: {
-    title: "이동혁 ♥ 김채영 결혼합니다",
-    description: "2026년 10월 15일, 소중한 분들을 초대합니다."
+    title: "신랑 ♥ 신부 결혼합니다",
+    description: "2026년 10월 18일, 소중한 분들을 초대합니다."
   }
 };
